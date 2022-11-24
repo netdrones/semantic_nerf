@@ -1,0 +1,11 @@
+# must be pip installed as they are old as of Nov 2022
+# torchvision is 0.14
+# trimesh in conda is 3.16.14
+# torch in conda is 1.13.0 which is  not available even in pip as of Nov 2022
+# open3d is v0.15.1
+# opencv-python is v4.6.0
+torchvision==0.7.0
+trimesh==3.9.9
+torch==1.6.0
+open3d==0.12.0
+opencv-python==4.4.0.44
